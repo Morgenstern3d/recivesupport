@@ -1,0 +1,4 @@
+<includeTarget>false</includeTarget>
+<includes>
+  <include>SupportBot2.jar</include>
+</includes>
