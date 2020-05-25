@@ -2,3 +2,6 @@
 <includes>
   <include>SupportBot2.jar</include>
 </includes>
+<processTypes>
+  <web>java -jar target/my-app-1.0.jar</web>
+</processTypes>
